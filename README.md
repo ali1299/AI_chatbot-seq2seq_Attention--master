@@ -1,4 +1,7 @@
-Hello, my name is Ali
+Hello! My name is Ali.
+
+Welcome to my github!
+
 This is the description of Chatbot AI
 I also used google codelab for this project.
 
